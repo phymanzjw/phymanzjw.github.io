@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>肖の博客</title>
+  <title>phy肖の博客</title>
   
   <subtitle>Stay Hungry, Stay Foolish</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>张肖</name>
+    <name>phy肖</name>
     
   </author>
   
