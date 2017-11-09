@@ -5,21 +5,25 @@
     
   <url>
     <loc>http://yoursite.com/2017/11/09/markdown/</loc>
-    <lastmod>2017-11-09T09:14:51.580Z</lastmod>
+    <lastmod>2017-11-09T13:43:58.357Z</lastmod>
     <data>
         <display>
         <title>Markdown入门</title>
         <pubTime>2017-11-09T08:44:29.000Z</pubTime>
         
+        <tag>markdown</tag>
+         
          
            
              
-              <breadCrumb title="hexo" url="http://yoursite.com/categories/hexo/"/>
+              <breadCrumb title="web" url="http://yoursite.com/categories/web/"/>
           
         </display>
     </data>
     </url>
 
+    
+    
     
   <url>
     <loc>http://yoursite.com/2017/11/07/hello-world/</loc>
